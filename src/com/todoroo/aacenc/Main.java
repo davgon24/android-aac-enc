@@ -23,6 +23,9 @@ import android.widget.Toast;
 
 public class Main extends Activity implements RecognitionListener {
 
+	
+	//cambio  1
+	
     private String AAC_FILE;
     private String M4A_FILE = "/sdcard/audio.m4a";
 
